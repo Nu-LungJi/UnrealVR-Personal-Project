@@ -1,0 +1,29 @@
+# Unreal Engine generated files and local editor state
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Plugins/**/Intermediate/
+/Plugins/**/DerivedDataCache/
+
+# IDE and operating system files
+/.vs/
+/.idea/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
