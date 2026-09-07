@@ -8,7 +8,7 @@
 ## [게임 1분 트레일러 (Trailer)](https://youtu.be/4lPh4s-BTnA)
 ## [게임 시연 영상 (Demo Video)](https://youtu.be/IZhNlxoRTyE)
 
-## [게임 발표자료 (PDF)](./README UNREAL VR INDIV- Presentation.pdf)
+## [게임 발표자료 (PDF)](https://github.com/Nu-LungJi/UnrealVR-Personal-Project/blob/main/README%20UNREAL%20VR%20INDIV-%20Presentation.pdf)
 
 | 항목     | 내용                                                                              |
 | ------ | ------------------------------------------------------------------------------- |
