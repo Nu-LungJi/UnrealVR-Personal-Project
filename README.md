@@ -4,6 +4,10 @@
 
 소방관이 되어 화재 현장에 진입하고, **화재 진압·인명 구조·산소 관리**를 수행하는 **1인칭 VR 개인 창작 게임**입니다. VR 컨트롤러로 소방호스를 조작하며, 제한된 산소와 화상에 따른 이동 저하를 고려해 지상·지하 구역의 임무를 진행합니다.
 **VR 플레이어·소방 장비**부터 **생존·구조·퀘스트 로직**, **레벨 구성**, **UI·음성·엔딩 연출**까지 Blueprint로 구현했습니다.
+<p align="center">
+  <img src="./Docs/Reward.svg" width="360" alt="VR·AR 콘텐츠 제작 부문 우수작품상">
+</p>
+
 ## [GitHub Repository](https://github.com/Nu-LungJi/UnrealVR-Personal-Project)
 ## [게임 1분 트레일러 (Trailer)](https://youtu.be/4lPh4s-BTnA)
 ## [게임 시연 영상 (Demo Video)](https://youtu.be/IZhNlxoRTyE)
