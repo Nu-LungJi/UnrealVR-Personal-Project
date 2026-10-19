@@ -1,0 +1,30 @@
+<svg width="520" height="90" viewBox="0 0 520 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="4" width="512" height="82" rx="20" fill="#B8860B"/>
+  <rect x="4" y="4" width="512" height="82" rx="20" stroke="#E8C75A" stroke-width="2"/>
+
+  <!-- Trophy Icon -->
+  <g transform="translate(24, 20)">
+    <path d="M38 8H62V18C62 29.0457 53.0457 38 42 38C30.9543 38 22 29.0457 22 18V8H38Z" fill="#FFF4C2"/>
+    <path d="M26 10H14C14 20 18 26 26 28" stroke="#FFF4C2" stroke-width="4" stroke-linecap="round"/>
+    <path d="M58 10H70C70 20 66 26 58 28" stroke="#FFF4C2" stroke-width="4" stroke-linecap="round"/>
+    <rect x="37" y="38" width="10" height="10" rx="2" fill="#FFF4C2"/>
+    <rect x="30" y="48" width="24" height="7" rx="3.5" fill="#FFF4C2"/>
+  </g>
+
+  <!-- Text -->
+  <text x="100" y="38"
+        fill="#FFF8DC"
+        font-size="18"
+        font-weight="700"
+        font-family="Pretendard, Apple SD Gothic Neo, Malgun Gothic, Segoe UI, sans-serif">
+    VR·AR 콘텐츠 제작 부문
+  </text>
+
+  <text x="100" y="63"
+        fill="#FFFDF2"
+        font-size="24"
+        font-weight="800"
+        font-family="Pretendard, Apple SD Gothic Neo, Malgun Gothic, Segoe UI, sans-serif">
+    우수작품상
+  </text>
+</svg>
