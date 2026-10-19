@@ -1,30 +1,56 @@
-<svg width="520" height="90" viewBox="0 0 520 90" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="4" y="4" width="512" height="82" rx="20" fill="#B8860B"/>
-  <rect x="4" y="4" width="512" height="82" rx="20" stroke="#E8C75A" stroke-width="2"/>
 
-  <!-- Trophy Icon -->
-  <g transform="translate(24, 20)">
-    <path d="M38 8H62V18C62 29.0457 53.0457 38 42 38C30.9543 38 22 29.0457 22 18V8H38Z" fill="#FFF4C2"/>
-    <path d="M26 10H14C14 20 18 26 26 28" stroke="#FFF4C2" stroke-width="4" stroke-linecap="round"/>
-    <path d="M58 10H70C70 20 66 26 58 28" stroke="#FFF4C2" stroke-width="4" stroke-linecap="round"/>
-    <rect x="37" y="38" width="10" height="10" rx="2" fill="#FFF4C2"/>
-    <rect x="30" y="48" width="24" height="7" rx="3.5" fill="#FFF4C2"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="520" height="90"
+     viewBox="0 0 520 90" fill="none">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="520" y2="90"
+                    gradientUnits="userSpaceOnUse">
+      <stop stop-color="#302715"/>
+      <stop offset="1" stop-color="#191919"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="90"
+                    gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE49C"/>
+      <stop offset="0.5" stop-color="#E9B94F"/>
+      <stop offset="1" stop-color="#C58D28"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Badge Background -->
+  <rect x="1" y="1" width="518" height="88" rx="15"
+        fill="url(#bg)" stroke="#A7833B"
+        stroke-width="1.5"/>
+
+  <!-- Trophy Icon Background -->
+  <rect x="17" y="17" width="56" height="56" rx="12"
+        fill="#E9B94F" fill-opacity="0.10"/>
+
+  <!-- Trophy: Lucide-inspired -->
+  <g transform="translate(21 21) scale(2)"
+     stroke="url(#gold)" stroke-width="1.8"
+     stroke-linecap="round" stroke-linejoin="round"
+     fill="none">
+    <path d="M8 21h8"/>
+    <path d="M12 17v4"/>
+    <path d="M7 4h10v7a5 5 0 0 1-10 0V4Z"/>
+    <path d="M7 6H4v2a4 4 0 0 0 4 4"/>
+    <path d="M17 6h3v2a4 4 0 0 1-4 4"/>
   </g>
 
-  <!-- Text -->
-  <text x="100" y="38"
-        fill="#FFF8DC"
-        font-size="18"
-        font-weight="700"
-        font-family="Pretendard, Apple SD Gothic Neo, Malgun Gothic, Segoe UI, sans-serif">
+  <!-- Award Category -->
+  <text x="94" y="37"
+        fill="#D9B969" font-size="17"
+        font-weight="600"
+        font-family="Pretendard, Apple SD Gothic Neo, Malgun Gothic, sans-serif">
     VR·AR 콘텐츠 제작 부문
   </text>
 
-  <text x="100" y="63"
-        fill="#FFFDF2"
-        font-size="24"
+  <!-- Award Name -->
+  <text x="94" y="66"
+        fill="#FFF1C7" font-size="25"
         font-weight="800"
-        font-family="Pretendard, Apple SD Gothic Neo, Malgun Gothic, Segoe UI, sans-serif">
+        font-family="Pretendard, Apple SD Gothic Neo, Malgun Gothic, sans-serif">
     우수작품상
   </text>
 </svg>
