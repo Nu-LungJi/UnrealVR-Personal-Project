@@ -9,6 +9,7 @@
 </p>
 
 <div align="center">
+  
 ## GAMEPLAY SHOWCASE
 
 <p align="center">
@@ -40,7 +41,12 @@
 | 플레이 구성 | 현장 진입 → 화재 진압·구조 → 지하층 임무 → 최종 임무·엔딩                                            |
 | 사용 기술  | Unreal Engine 5.5 · Blueprint · OpenXR · Enhanced Input · UMG · Level Streaming |
 | 제작 보조  | TypeCast(AI Sound), Mixamo(Animation), Oculus(VR)                               |
+</div>
+<div align="center">
+  
 ## 게임 진행 흐름
+  
+</div>
 
 현장은 지상층/지하층으로 나눴습니다. **지상층**은 주로 **화재 진압 · 인명 구조**를 하여 튜토리얼을 끝내는 것을 목표로 하는 층이고, **지하층**은 **전기화재, 가스 폭발** 등 추가적인 이벤트를 넣어 사용자가 다양한 화재에 대처할 수 있도록 구성하였습니다. 아래 그래프를 통해 게임 진행을 확인하실 수 있습니다.
 
@@ -80,8 +86,12 @@ flowchart TB
     style UNDERGROUND fill:#F8FAFC,stroke:#CBD5E1,color:#334155
     linkStyle default stroke:#64748B,stroke-width:1.5px
 ```
-
-## 주요 기술 구현  
+<div align="center">
+  
+## 주요 기술 구현 
+  
+</div>
+ 
 
 | 번호    | 기술                | 핵심 구현                                      |
 | ----- | ----------------- | ------------------------------------------ |
@@ -168,7 +178,12 @@ flowchart TB
 
 관련 블루프린트·자산: `WBP_Screen` · `WBP_ProgressBar` · `WBP_Intro` · `WBP_GameOver` · `WBP_EndingNews` · `WBP_EndingCredit`
 
+<div align="center">
+  
 ## 개발 환경
+  
+</div>
+
 
 | 분류        | 기술                                                                     |
 | --------- | ---------------------------------------------------------------------- |
@@ -180,6 +195,10 @@ flowchart TB
 | 애니메이션·오디오 | Animation Blueprint · UE 오디오 시스템                                       |
 | 레벨 관리     | Level Streaming · LoadStreamLevel · UnloadStreamLevel                  |
 
+<div align="center">
+  
 ## 리소스 활용
+  
+</div>
 
 UE5 VR Template과 외부 환경·캐릭터·애니메이션·이펙트 자산을 활용한 개인 창작 프로젝트입니다. 외부 자산과 도구의 권리는 각 권리자에게 있습니다.
