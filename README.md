@@ -14,6 +14,28 @@
 
 ## [게임 발표자료 (PDF)](https://github.com/Nu-LungJi/UnrealVR-Personal-Project/blob/main/README%20UNREAL%20VR%20INDIV-%20Presentation.pdf)
 
+## GAMEPLAY SHOWCASE
+
+<p align="center">
+  <a href="https://youtu.be/4lPh4s-BTnA">
+    <img src="./Docs/Button_Trailer.svg"
+         width="250"
+         alt="게임 트레일러 영상">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://youtu.be/IZhNlxoRTyE">
+    <img src="./Docs/Button_GamePlay.svg"
+         width="250"
+         alt="전체 게임 플레이 영상">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Nu-LungJi/UnrealVR-Personal-Project/blob/main/README%20UNREAL%20VR%20INDIV-%20Presentation.pdf">
+    <img src="./Docs/Button_Presentation.svg"
+         width="250"
+         alt="게임 발표 자료">
+  </a>
+</p>
+
 | 항목     | 내용                                                                              |
 | ------ | ------------------------------------------------------------------------------- |
 | 개발 기간  | 2024.12.02 ~ 2025.05.26 (약 6개월)                                                 |
