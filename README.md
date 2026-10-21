@@ -8,12 +8,7 @@
   <img src="./Docs/Reward.svg" width="360" alt="VR·AR 콘텐츠 제작 부문 우수작품상">
 </p>
 
-## [GitHub Repository](https://github.com/Nu-LungJi/UnrealVR-Personal-Project)
-## [게임 1분 트레일러 (Trailer)](https://youtu.be/4lPh4s-BTnA)
-## [게임 시연 영상 (Demo Video)](https://youtu.be/IZhNlxoRTyE)
-
-## [게임 발표자료 (PDF)](https://github.com/Nu-LungJi/UnrealVR-Personal-Project/blob/main/README%20UNREAL%20VR%20INDIV-%20Presentation.pdf)
-
+<div align="center">
 ## GAMEPLAY SHOWCASE
 
 <p align="center">
